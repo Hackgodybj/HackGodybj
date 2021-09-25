@@ -15,9 +15,7 @@
 
 ## 🔧 Languages and Tools:
 
-<p align="left"> 
-    ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-    ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+<p align="left">
     <a href="https://python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/> </a> 
@@ -33,6 +31,10 @@
     <a href="https://docker.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
+    </p>
+    <p align="right">
+    <a href="https://linux.org/" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
+    <a href="https://redhat.com/" target="_blank"> <img src="https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a"/> </a>
 </p>
 
 <br/>
