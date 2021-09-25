@@ -62,7 +62,7 @@
 
 <a href = "https://t.me/Hackgodybj"><img src="https://img.icons8.com/doodle/50/000000/telegram-app.png"/></a>
 <a href = "https://twitter.com/HackGodybj"><img src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/></a>
-<a href = "https://github.com/HackGodybj"><img src="https://img.icons8.com/52/111111/github.png"/></a>
+<a href = "https://github.com/HackGodybj"><img src="https://img.icons8.com/doodle/50/000000/github.png"/></a>
 <a href = "https://www.facebook.com/yashbhardwajji/"><img src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/></a>
 
 </p>
