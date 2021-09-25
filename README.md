@@ -13,9 +13,11 @@
 - 📫 How to reach me **https://instagram.com/hackgodybj**
 
 
-## 🚀 Languages and Tools:
+## 🔧 Languages and Tools:
 
 <p align="left"> 
+    ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+    ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
     <a href="https://python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/> </a> 
